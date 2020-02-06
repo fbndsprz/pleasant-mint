@@ -1,8 +1,8 @@
 {
-  "title": "Stackbit Azimuth Theme",
-  "palette": "purple",
+  "title": "FD",
+  "palette": "orange",
   "header": {
-    "title": "Azimuth",
+    "title": "Fabien DESPREZ",
     "logo_img": "/images/FDZ.png",
     "has_nav": true,
     "menu": {
@@ -19,10 +19,10 @@
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": true,
     "social_title": "Community",
-    "tagline": "SaaS theme by Stackbit",
-    "logo_img": "images/logo_alt.png",
+    "tagline": "èfdé",
+    "logo_img": "/images/FDZ.png",
     "has_social": true,
-    "content": "&copy; Stackbit. All rights reserved.",
+    "content": "&copy; èfdé. All rights reserved.",
     "links": [
       {
         "text": "Made with Stackbit",
