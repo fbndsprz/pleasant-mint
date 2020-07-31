@@ -27,6 +27,7 @@ collections:
               - purple
               - green
               - orange
+              - efde
           - widget: object
             name: header
             label: Header Configuration
