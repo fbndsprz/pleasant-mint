@@ -238,3 +238,82 @@
     }
   }
 }
+
+.palette-efde {
+  a {
+    &:hover,
+    &:focus {
+      border-color: _palette(accent-efde);
+      color: _palette(accent-efde);
+    }
+  }
+
+  blockquote {
+    border-color: _palette(accent-efde);
+  }
+
+  button,
+  input[type="submit"],
+  input[type="button"],
+  input[type="reset"],
+  a.button {
+    background: _palette(accent-efde);
+    border-color: _palette(accent-efde);
+    color: #fff;
+  }
+
+  .button.secondary {
+    background: transparent;
+    color: _palette(accent-efde);
+
+    &:hover,
+    &:focus,
+    &:active {
+      background: _palette(accent-efde);
+      color: #fff;
+    }
+  }
+
+  .button.white {
+    background: #fff;
+    border-color: transparent;
+    color: _palette(primary);
+  }
+
+  .underline {
+    &:after {
+      border-color: _palette(accent-efde);
+    }
+  }
+
+  .icon-plus {
+    background: _palette(accent-efde);
+  }
+
+  .review-text {
+    &:before {
+      color: _palette(accent-efde);
+    }
+  }
+
+  .plan {
+    &.highlight {
+      .plan-inside {
+        border-color: _palette(accent-efde);
+      }
+
+      .button {
+        background: _palette(accent-efde);
+        color: #fff;
+      }
+    }
+  }
+
+  .block {
+    &.bg-accent {
+      background: _palette(accent-efde);
+      background: -webkit-linear-gradient(left,_palette(accent-efde), _palette(accent-efde-alt));
+      background: linear-gradient(to right,_palette(accent-efde), _palette(accent-efde-alt));
+    }
+  }
+}
