@@ -6,12 +6,7 @@
     "logo_img": "/images/FDZ.png",
     "has_nav": true,
     "menu": {
-      "actions": [
-        {
-          "label": "Sign Up",
-          "url": "/signup"
-        }
-      ]
+      "actions": []
     }
   },
   "footer": {
@@ -23,13 +18,7 @@
     "logo_img": "/images/FDZ_alt.png",
     "has_social": true,
     "content": "&copy; èfdé. All rights reserved.",
-    "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
-    ],
+    "links": [],
     "nav_title": "Company",
     "has_nav": true
   }
