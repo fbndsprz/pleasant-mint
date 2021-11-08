@@ -4,7 +4,7 @@ sections:
   - type: section_contact
     section_id: contact
     title: Contact
-    content: Drop me a line about your project or needs.
+    content: Drop me a line about your projects or needs.
     bg: gray
 menus:
   secondary:
