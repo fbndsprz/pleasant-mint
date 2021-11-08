@@ -4,7 +4,7 @@
   "header": {
     "title": "Fabien DESPREZ",
     "logo_img": "/images/FDZ.png",
-    "has_nav": false,
+    "has_nav": true,
     "menu": {
       "actions": []
     }
