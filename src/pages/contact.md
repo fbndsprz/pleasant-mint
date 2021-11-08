@@ -4,10 +4,7 @@ sections:
   - type: section_contact
     section_id: contact
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: Drop me a line about your project or needs.
     bg: gray
 menus:
   secondary:
